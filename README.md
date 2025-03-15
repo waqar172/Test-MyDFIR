@@ -1,12 +1,11 @@
 # Hello, I'm Muhammad Waqar Ahmed
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Introduction
+## Introduction
 
 A results-driven and adaptable IT professional with extensive experience in IT operations, infrastructure support, and cloud administration. Proficient in Microsoft 365, Azure, Intune, SCCM, virtualization, and security tools like Microsoft Sentinel and Splunk. Skilled in network administration, PowerShell scripting, automation, and ITIL-based service management. Experienced in on-premise and cloud infrastructure, including IaaS, PaaS, and SaaS. Committed to continuous learning and leveraging technology to drive operational excellence.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 With a strong foundation in computer science, I have developed a keen interest in cybersecurity and am now eager to transition into the field. My goal is to contribute my skills and knowledge in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can actively monitor, analyze, and respond to security threats while continuously growing in the cybersecurity domain.
 
